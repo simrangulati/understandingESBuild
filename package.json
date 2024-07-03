@@ -1,0 +1,26 @@
+{
+  "name": "understandingesbuild",
+  "version": "1.0.0",
+  "description": "To understand how esbuild works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simrangulati/understandingESBuild.git"
+  },
+  "keywords": [
+    "esbuild"
+  ],
+  "author": "Simran Gulati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simrangulati/understandingESBuild/issues"
+  },
+  "homepage": "https://github.com/simrangulati/understandingESBuild#readme",
+  "devDependencies": {
+    "esbuild": "^0.23.0"
+  }
+}
